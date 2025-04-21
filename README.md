@@ -1,7 +1,3 @@
-Here you go, Sanali! 🎉 This is your **final polished README**, ready to copy-paste into your GitHub repo. It includes everything we discussed: table of contents, clean documentation reference, optional badge, and a professional tone.
-
----
-
 ```markdown
 # 🎮 GameStore Web App – Azure Deployment
 
