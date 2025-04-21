@@ -1,10 +1,9 @@
 ```markdown
 # 🎮 GameStore Web App – Azure Deployment
 
-![Deployment Status](https://img.shields.io/badge/Deployed-Azure-brightgreen)
-![Grade Level](https://img.shields.io/badge/Assignment-Grade%3A_VG-blue)
-
-This repository contains a cloned version of the `cua24s_gamestore` application provided by our teacher as part of the *Inlämningsuppgift G* for the MTA course at JENSEN Yrkeshögskola. The main task was to focus on deploying the app to **Azure App Service** and configuring related **cloud services**.
+This repository contains a cloned version of the `cua24s_gamestore` application provided by our teacher
+as part of the *Inlämningsuppgift G* for the MTA course at JENSEN Yrkeshögskola. The main task was to focus on
+deploying the app to **Azure App Service** and configuring related **cloud services**.
 
 ---
 
@@ -23,9 +22,11 @@ This repository contains a cloned version of the `cua24s_gamestore` application 
 
 ## 📖 Extended Description
 
-This project was carried out as part of the *Inlämningsuppgift G-nivå* for the course **MTA** at **JENSEN Yrkeshögskola**. The purpose of the assignment was to gain hands-on experience with deploying a pre-built web application to the cloud using **Microsoft Azure**.
+This project was carried out as part of the *Inlämningsuppgift G-nivå* for the course **MTA** at **JENSEN Yrkeshögskola**.
+The purpose of the assignment was to gain hands-on experience with deploying a pre-built web application to the cloud using **Microsoft Azure**.
 
-The web application itself, `cua24s_gamestore`, was provided by our teacher through a public GitHub repository. My responsibility was focused entirely on the **cloud-based aspects**, not the application development.
+The web application itself, `cua24s_gamestore`, was provided by our teacher through a public GitHub repository.
+My responsibility was focused entirely on the **cloud-based aspects**, not the application development.
 
 Key tasks performed in this project:
 
@@ -38,9 +39,11 @@ Key tasks performed in this project:
 - ✅ Configured **IAM (Identity and Access Management)** by assigning roles  
 - ✅ Activated **SSL (HTTPS Only)** to secure the application  
 
-All steps and configurations were carefully documented through screenshots and written explanations, as required by the assignment instructions.
+All steps and configurations were carefully documented through screenshots and written explanations,
+as required by the assignment instructions.
 
-The result is a fully functional and secure web application running on Azure, monitored through Application Insights and managed using Azure’s built-in access control system.
+The result is a fully functional and secure web application running on Azure,
+monitored through Application Insights and managed using Azure’s built-in access control system.
 
 ---
 
@@ -117,7 +120,8 @@ This project was later extended to meet the **Väl Godkänd (VG)** level of the 
 
 ## 📄 Project Documentation
 
-🗂 **Screenshots and full technical documentation** are included in the accompanying **presentation/report (PDF or PowerPoint)** as part of this submission.  
+🗂 **Screenshots and full technical documentation** are included in the accompanying
+**presentation/report (PDF or PowerPoint)** as part of this submission.  
 This includes all Azure configuration steps for:
 
 - Application Insights  
@@ -139,5 +143,6 @@ JENSEN Yrkeshögskola, 2025
 
 ## 📄 Assignment Status
 
-✅ All tasks required for **Godkänd (G)** and **Väl Godkänd (VG)** grades are successfully completed as per the [assignment instructions](https://github.com/Degendeg/cua24s_gamestore).
+✅ All tasks required for **Godkänd (G)** and **Väl Godkänd (VG)** grades are successfully completed as per the
+[assignment instructions](https://github.com/Degendeg/cua24s_gamestore).
 ```
