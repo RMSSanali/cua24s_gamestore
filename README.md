@@ -23,7 +23,8 @@ deploying the app to **Azure App Service** and configuring related **cloud servi
 ## 📖 Extended Description
 
 This project was carried out as part of the *Inlämningsuppgift G-nivå* for the course **MTA** at **JENSEN Yrkeshögskola**.
-The purpose of the assignment was to gain hands-on experience with deploying a pre-built web application to the cloud using **Microsoft Azure**.
+The purpose of the assignment was to gain hands-on experience with deploying a pre-built web application to
+the cloud using **Microsoft Azure**.
 
 The web application itself, `cua24s_gamestore`, was provided by our teacher through a public GitHub repository.
 My responsibility was focused entirely on the **cloud-based aspects**, not the application development.
@@ -83,7 +84,8 @@ Visit the deployed site here:
 
 ## 🆙 VG-Level Enhancements
 
-This project was later extended to meet the **Väl Godkänd (VG)** level of the assignment. These advanced features were implemented in addition to the original G-level tasks:
+This project was later extended to meet the **Väl Godkänd (VG)** level of the assignment.
+These advanced features were implemented in addition to the original G-level tasks:
 
 - 🚀 **Automatic Scaling**  
   - Configured CPU-based autoscaling rules on Azure App Service Plan (Standard S1)
