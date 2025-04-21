@@ -4,8 +4,9 @@
 ![Deployment Status](https://img.shields.io/badge/Deployed-Azure-brightgreen)
 ![Grade Level](https://img.shields.io/badge/Assignment-Grade%3A_VG-blue)
 
-This repository contains a cloned version of the `cua24s_gamestore` application provided by our teacher as part of the *Inlämningsuppgift G* for the
-MTA course at JENSEN Yrkeshögskola. The main task was to focus on deploying the app to **Azure App Service** and configuring related **cloud services**.
+This repository contains a cloned version of the `cua24s_gamestore` application provided by our teacher as part of
+the *Inlämningsuppgift G* for the MTA course at JENSEN Yrkeshögskola. The main task was to focus on deploying the app
+to **Azure App Service** and configuring related **cloud services**.
 
 ---
 
